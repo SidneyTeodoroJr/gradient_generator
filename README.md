@@ -1,6 +1,14 @@
 <h2 align="center">Gradient Generator</h2>
 </br>
 
+<div align="center">
+<a href="https://github.com/SidneyTeodoroJr" target="_blank">
+<img src="gradient_generator.png" alt="gradient">
+</a>
+</div>
+
+</br>
+</br>
 Uma ferramenta simples para gerar gradientes de cores de forma rápida e fácil. Com este gerador, você pode criar gradientes personalizados que podem ser usados em projetos de design, desenvolvimento web, ilustrações e muito mais.
 </br>
 
@@ -13,7 +21,7 @@ Se você quiser contribuir para o desenvolvimento do Gradient Generator, fique �
 ## Problemas e sugestões
 </br>
 
-Se você encontrar algum problema ou tiver alguma sugestão de melhoria, você pode entrar em contato comigo por meio do meu perfil no GitHub ou pelas minhas redes sociais listadas a baixo.
+Se você encontrar algum problema ou tiver alguma sugestão de melhoria, você pode entrar em contato comigo por meio do meu perfil no <a href="https://github.com/SidneyTeodoroJr" target="_blank">GitHub</a> ou pelas minhas redes sociais listadas a baixo.
 
 </br>
 </br>
