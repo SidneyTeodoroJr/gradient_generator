@@ -9,19 +9,18 @@
 
 </br>
 </br>
-Uma ferramenta simples para gerar gradientes de cores de forma rápida e fácil. Com este gerador, você pode criar gradientes personalizados que podem ser usados em projetos de design, desenvolvimento web, ilustrações e muito mais.
+A simple tool to generate color gradients quickly and easily. With this generator, you can create custom gradients that can be used in design projects, web development, illustrations, and more.</br>
+
+# Contribution
 </br>
 
-# Contribuição
+If you would like to contribute to the development of the Gradient Generator, feel free to fork this repository and submit your changes via pull requests. Your contribution is greatly appreciated.
 </br>
 
-Se você quiser contribuir para o desenvolvimento do Gradient Generator, fique à vontade para fazer um fork deste repositório e enviar suas alterações por meio de pull requests. Sua contribuição é muito apreciada.
+## problems and suggestions
 </br>
 
-## Problemas e sugestões
-</br>
-
-Se você encontrar algum problema ou tiver alguma sugestão de melhoria, você pode entrar em contato comigo por meio do meu perfil no <a href="https://github.com/SidneyTeodoroJr" target="_blank">GitHub</a> ou pelas minhas redes sociais listadas a baixo.
+If you encounter any problems or have any suggestions for improvement, you can contact me through my profile on <a href="https://github.com/SidneyTeodoroJr" target="_blank">GitHub</a> or through my social networks listed below.
 
 </br>
 </br>
