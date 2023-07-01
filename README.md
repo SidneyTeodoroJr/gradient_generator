@@ -1,15 +1,21 @@
-## Gradient Generator
+<h2 align="center">Gradient Generator</h2>
+</br>
 
-    Uma ferramenta simples para gerar gradientes de cores de forma rápida e fácil. Com este gerador, você pode criar gradientes personalizados que podem ser usados em projetos de design, desenvolvimento web, ilustrações e muito mais.
+Uma ferramenta simples para gerar gradientes de cores de forma rápida e fácil. Com este gerador, você pode criar gradientes personalizados que podem ser usados em projetos de design, desenvolvimento web, ilustrações e muito mais.
+</br>
 
 # Contribuição
+</br>
 
-    Se você quiser contribuir para o desenvolvimento do Gradient Generator, fique à vontade para fazer um fork deste repositório e enviar suas alterações por meio de pull requests. Sua contribuição é muito apreciada.
+Se você quiser contribuir para o desenvolvimento do Gradient Generator, fique à vontade para fazer um fork deste repositório e enviar suas alterações por meio de pull requests. Sua contribuição é muito apreciada.
+</br>
 
 ## Problemas e sugestões
+</br>
 
-    Se você encontrar algum problema ou tiver alguma sugestão de melhoria, você pode entrar em contato comigo por meio do meu perfil no GitHub ou pelas minhas redes sociais listadas a baixo.
+Se você encontrar algum problema ou tiver alguma sugestão de melhoria, você pode entrar em contato comigo por meio do meu perfil no GitHub ou pelas minhas redes sociais listadas a baixo.
 
+</br>
 </br>
 
 <div align="center">
