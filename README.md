@@ -2,14 +2,18 @@
 </br>
 
 <div align="center">
-<a href="https://github.com/SidneyTeodoroJr" target="_blank">
+<a href="https://gradient-generator-2023.netlify.app/" target="_blank">
 <img src="gradient_generator.png" alt="gradient">
 </a>
 </div>
 
 </br>
 </br>
-A simple tool to generate color gradients quickly and easily. With this generator, you can create custom gradients that can be used in design projects, web development, illustrations, and more.</br>
+A simple tool to generate color gradients quickly and easily. With this generator, you can create custom gradients that can be used in design projects, web development, illustrations, and more.
+</br>
+
+<h3 align="left"><a href="https://gradient-generator-2023.netlify.app/">Live demo>></a></h3>
+</br>
 
 # Contribution
 </br>
